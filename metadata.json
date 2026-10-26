@@ -1,0 +1,6 @@
+{
+  "name": "Midnight Memory Melody",
+  "description": "A private, cinematic romantic birthday surprise and memory journal made with love.",
+  "requestFramePermissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
